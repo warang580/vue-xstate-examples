@@ -1,4 +1,10 @@
-# vue-tailwind-xstate
+# vue-xstate-examples
+
+Examples of xstate used within VueJS.
+
+This project also uses VueRouter, Tailwindcss and Jest.
+
+Feel free to use this as a template for a new project.
 
 ## Project setup
 ```
